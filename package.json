@@ -2,7 +2,7 @@
   "author": "GormenHou",
   "name": "mongoosastic-extend",
   "description": "A mongoose plugin that indexes models into elastic search",
-  "version": "1.0",
+  "version": "1.0.0",
   "tags": [
     "mongodb",
     "elasticsearch",
